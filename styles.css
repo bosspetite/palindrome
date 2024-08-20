@@ -1,0 +1,26 @@
+ /* Basic styling */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      #text-input {
+        width: 300px;
+        padding: 10px;
+        font-size: 16px;
+      }
+
+      #check-btn {
+        padding: 10px 20px;
+        font-size: 16px;
+        margin-left: 10px;
+        cursor: pointer;
+      }
+
+      #result {
+        margin-top: 20px;
+        font-size: 18px;
+        color: #000;
+        background-color: blue;
+      }
+
